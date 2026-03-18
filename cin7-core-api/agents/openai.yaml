@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cin7 Core API"
+  short_description: "Build Cin7 Core API integrations"
+  default_prompt: "Use $cin7-core-api to build or review a Cin7 Core API integration against the DEAR/Cin7 Core API blueprint."
