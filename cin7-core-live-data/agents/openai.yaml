@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cin7 Core Live Data"
+  short_description: "Query live Cin7 Core data through MCP"
+  default_prompt: "Use $cin7-core-live-data to answer this question from live Cin7 Core data via the bundled read-only MCP server, including product, inventory, sales, and purchase-order lookups, and fall back to $cin7-core-api plus raw_get when the focused tools are not enough."
